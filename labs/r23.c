@@ -2,11 +2,13 @@
 int main()
 {
 //int j,i;
-int j,i;
-for (i=1; i<=6; i++)
+int n, j,i;
+printf("Enter your number\n");
+scanf("%d",&n);
+for (i=1; i<=n; i++)
 {
     printf("\n",i);
-    for (j=1; j<=i; j++){
+    for (j=1; j<=n; j++){
     
 
 printf("*",j);

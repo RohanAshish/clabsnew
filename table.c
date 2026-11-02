@@ -2,7 +2,7 @@
 
 int main()
 {
-printf("coding mode on"\a);
+printf("the supaul");
 
 
 
