@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+//int j,i;
 int j,i;
 for (i=1; i<=6; i++)
 {
